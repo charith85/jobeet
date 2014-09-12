@@ -1,0 +1,83 @@
+<?php
+
+namespace Ens\JobeetBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * CategoryAffiliate
+ */
+class CategoryAffiliate
+{
+    /**
+     * @var integer
+     */
+    private $id;
+
+    /**
+     * @var integer
+     */
+    private $categoryId;
+
+    /**
+     * @var integer
+     */
+    private $affiliateId;
+
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set categoryId
+     *
+     * @param integer $categoryId
+     * @return CategoryAffiliate
+     */
+    public function setCategoryId($categoryId)
+    {
+        $this->categoryId = $categoryId;
+
+        return $this;
+    }
+
+    /**
+     * Get categoryId
+     *
+     * @return integer 
+     */
+    public function getCategoryId()
+    {
+        return $this->categoryId;
+    }
+
+    /**
+     * Set affiliateId
+     *
+     * @param integer $affiliateId
+     * @return CategoryAffiliate
+     */
+    public function setAffiliateId($affiliateId)
+    {
+        $this->affiliateId = $affiliateId;
+
+        return $this;
+    }
+
+    /**
+     * Get affiliateId
+     *
+     * @return integer 
+     */
+    public function getAffiliateId()
+    {
+        return $this->affiliateId;
+    }
+}
