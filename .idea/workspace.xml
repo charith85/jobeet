@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoadJobData.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LoadJobData.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="44" selection-start="1774" selection-end="1774" vertical-scroll-proportion="0.6711004" vertical-offset="40" max-vertical-offset="1224">
+            <state line="40" column="44" selection-start="1774" selection-end="1774" vertical-scroll-proportion="-7.6153846" vertical-offset="397" max-vertical-offset="1224">
               <folding>
                 <element signature="e#140#189#0" expanded="true" />
               </folding>
@@ -45,10 +45,37 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="job.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="19" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="24" selection-start="1865" selection-end="1867" vertical-scroll-proportion="-5.3137255" vertical-offset="1633" max-vertical-offset="2465">
+            <state line="141" column="54" selection-start="2541" selection-end="2541" vertical-scroll-proportion="-12.568627" vertical-offset="1756" max-vertical-offset="2550">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="0.37362638" vertical-offset="1734" max-vertical-offset="3842">
               <folding />
             </state>
           </provider>
@@ -122,7 +149,6 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/CategoryAffiliate.orm.yml" />
-        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Category.orm.yml" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Job.orm.yml" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Affiliate.orm.yml" />
@@ -130,6 +156,8 @@
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Affiliate.php" />
         <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php" />
       </list>
     </option>
   </component>
@@ -321,7 +349,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
+              <option name="myItemId" value="routing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,37 +375,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JobeetBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataFixtures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ORM" />
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -438,7 +436,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -687,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="24" selection-start="1865" selection-end="1867" vertical-scroll-proportion="-5.3137255" vertical-offset="1633" max-vertical-offset="2465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Affiliate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-28.980392" vertical-offset="1157" max-vertical-offset="3655">
@@ -703,10 +694,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="44" selection-start="1774" selection-end="1774" vertical-scroll-proportion="0.6711004" vertical-offset="40" max-vertical-offset="1224">
+        <state line="40" column="44" selection-start="1774" selection-end="1774" vertical-scroll-proportion="-7.6153846" vertical-offset="397" max-vertical-offset="1224">
           <folding>
             <element signature="e#140#189#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="54" selection-start="2541" selection-end="2541" vertical-scroll-proportion="-12.568627" vertical-offset="1756" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="0.37362638" vertical-offset="1734" max-vertical-offset="3842">
+          <folding />
         </state>
       </provider>
     </entry>
