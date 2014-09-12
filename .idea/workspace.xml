@@ -72,19 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JobController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JobController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="0.37362638" vertical-offset="1734" max-vertical-offset="3842">
+            <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="-11.769231" vertical-offset="1734" max-vertical-offset="3842">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Affiliate.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Affiliate.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Affiliate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-28.980392" vertical-offset="1157" max-vertical-offset="3655">
+            <state line="155" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-0.28463477" vertical-offset="2861" max-vertical-offset="3655">
               <folding />
             </state>
           </provider>
@@ -350,6 +350,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="routing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -685,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Affiliate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-28.980392" vertical-offset="1157" max-vertical-offset="3655">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="44" selection-start="1774" selection-end="1774" vertical-scroll-proportion="-7.6153846" vertical-offset="397" max-vertical-offset="1224">
@@ -724,7 +743,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="0.37362638" vertical-offset="1734" max-vertical-offset="3842">
+        <state line="124" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="-11.769231" vertical-offset="1734" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Affiliate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-0.28463477" vertical-offset="2861" max-vertical-offset="3655">
           <folding />
         </state>
       </provider>
