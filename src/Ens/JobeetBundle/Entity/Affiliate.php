@@ -155,19 +155,6 @@ class Affiliate
     }
 
     /**
-     * Set created_at
-     *
-     * @param \DateTime $createdAt
-     * @return Affiliate
-     */
-    public function setCreatedAt($createdAt)
-    {
-        $this->created_at = $createdAt;
-
-        return $this;
-    }
-
-    /**
      * Get created_at
      *
      * @return \DateTime 
@@ -214,6 +201,9 @@ class Affiliate
      */
     public function setCreatedAtValue()
     {
-        // Add your code here
+        if(!$this->getCreatedAt())
+        {
+            $this->created_at = new \DateTime();
+        }
     }
 }

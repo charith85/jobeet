@@ -39,7 +39,7 @@ class LoadCategoryData extends AbstractFixture implements OrderedFixtureInterfac
 
         $manager->persist($design);
         $manager->persist($programming);
-        $manager->persist($manager);
+        $manager->persist($man);
         $manager->persist($administrator);
 
         $manager->flush();

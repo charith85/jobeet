@@ -3,7 +3,6 @@
 namespace Ens\JobeetBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Symfony\Component\Validator\Constraints\DateTime;
 
 /**
  * Job
@@ -454,7 +453,7 @@ class Job
     {
         if(!$this->getCreatedAt())
         {
-            $this->created_at = new DateTime();
+            $this->created_at = new \DateTime();
         }
     }
 
@@ -463,6 +462,6 @@ class Job
      */
     public function setUpdatedAtValue()
     {
-        $this->updated_at= new DateTime();
+        $this->updated_at= new \DateTime();
     }
 }
